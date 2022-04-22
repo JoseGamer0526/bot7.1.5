@@ -9,7 +9,7 @@ Bienvenido a mi bot de descarga
 
 /start ⛩Iniciar Bot⛩
 
-/tutorial 📖Abrir el Tutorial
+/help 📖Abrir el Tutorial
 
 /my 👤Información 
 
